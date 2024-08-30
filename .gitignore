@@ -347,3 +347,7 @@ healthchecksdb
 /env
 /media
 /freezeit.py
+
+# vscode
+*.code-workspace
+.vscode
